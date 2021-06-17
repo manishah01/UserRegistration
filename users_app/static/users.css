@@ -1,0 +1,36 @@
+* {
+    margin:0px;
+    padding:0px;
+    font-family:'Cutive Mono', monospace;
+}
+
+#wrapper {
+    margin:0 auto;
+    width:850px;
+}
+
+h1 {
+    text-align:center;
+}
+
+form {
+    margin-bottom: 15px;
+}
+
+input[type=text] {
+    width: 100%;
+    padding:10px 20px;
+    margin:8px 0;
+    box-sizing:border-box;
+    border-color: rgb(176, 175, 175);
+    background-color:#7d7d7d;
+    color:white;
+}
+
+table {
+    width:100%;
+}
+
+table, th, td {
+    border:1px solid rgb(145, 142, 142);
+}
